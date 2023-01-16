@@ -4,16 +4,26 @@
 
 *Key Elements:*
 
-1. Using terraform to create a S3 bucket
-2. Sets access control list for S3 bucket
-3. Enables versioning
-4. Encrypts S3 elements
-5. Configures security
+1. Setting up basic lamda function
+2. Python script that prints message with first and last name
+3. Demonstrates Lambdas built in test function
+4. Displays test reults
+5. Shows CloudWatch logs
 
 #### Screenshots:
 
-Main Code                  | Providers                 |
+Lambda Configuration       | Python Code               |
 :-------------------------:|:-------------------------:|
-![main_code](img/img1.png) | ![providers_code](img/img2.png) |
+![lambda](img/img1.png)    | ![python](img/img2.png)   |
+
+
+Test Event                 | Test Results              |
+:-------------------------:|:-------------------------:|
+![event](img/img3.png)     | ![results](img/img4.png)  |
+
+
+CloudWatch Logs            | 
+:-------------------------:|
+![CloudWatch](img/img5.png) |
 
 
