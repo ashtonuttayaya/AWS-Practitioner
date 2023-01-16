@@ -1,4 +1,4 @@
-# Terraform
+# Lambda
 
 ## Ashton Uttayaya
 
