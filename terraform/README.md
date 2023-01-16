@@ -8,7 +8,7 @@
 2. Sets access control list for S3 bucket
 3. Enables versioning
 4. Encrypts S3 elements
-5. Bitbucket stations locations screenshot
+5. Configures security
 
 #### Screenshots:
 
