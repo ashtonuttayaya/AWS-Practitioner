@@ -4,26 +4,32 @@
 
 *Key Elements:*
 
-1. Setting up basic lamda function
-2. Python script that prints message with first and last name
-3. Demonstrates Lambdas built in test function
-4. Displays test reults
-5. Shows CloudWatch logs
+1. Creates VPC
+2. Creates sub routes
+3. Route table allows for VPC to connect to public internet
+4. EC2 added to VPC
+5. EC2 generates key pairs for connection via ssh
 
 #### Screenshots:
 
-Lambda Configuration       | Python Code               |
+VPC Creation               | my-vpc                    |
 :-------------------------:|:-------------------------:|
-![lambda](img/img1.png)    | ![python](img/img2.png)   |
+![VPC](img/img1.png)       | ![my-vpc](img/img2.png)   |
 
 
-Test Event                 | Test Results              |
+Creating Subnet            | Editing Subnet            |
 :-------------------------:|:-------------------------:|
-![event](img/img3.png)     | ![results](img/img4.png)  |
+![subnet](img/img3.png)    | ![editing](img/img4.png)  |
 
 
-CloudWatch Logs            | 
+Route Table w/ Connections | 
 :-------------------------:|
-![CloudWatch](img/img5.png) |
+![my-rt](img/img5.png) |
 
+Creating EC2               | EC2 pt. 2                 |
+:-------------------------:|:-------------------------:|
+![EC2](img/img6.png)       | ![EC2-2](img/img7.png)    |
 
+Connection to EC2 via Console | EC2 Terminal                 |
+:-------------------------:|:-------------------------:|
+![EC2-connect](img/img8.png) | ![EC2-terminal](img/img9.png)    |

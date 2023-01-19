@@ -12,4 +12,6 @@
     - Displays CloudWatch logs
 
 2. [EC2 README.md](EC2/README.md "EC2 README.md file")
-    - add notes
+    - Creates a VPC
+    - Creates routes that allow the VPC to access public internet
+    - Creates an EC2 instance within the VPC
