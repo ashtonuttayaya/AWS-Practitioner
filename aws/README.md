@@ -10,3 +10,6 @@
     - Creation of Lambda funtion
     - Showcases testing event and results
     - Displays CloudWatch logs
+
+2. [EC2 README.md](EC2/README.md "EC2 README.md file")
+    - add notes

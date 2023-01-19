@@ -13,3 +13,5 @@
 
 2. [AWS README.md](aws/README.md "AWS README.md file")
     - Showcases Lambda function
+    - Shows creation of an EC2 instance in a VPC
+
